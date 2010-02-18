@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/instruments/impl
+END
+swapstream_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/instruments/impl/swapstream_impl.hh
+END
+otcir_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/instruments/impl/otcir_impl.hh
+END
+instrument_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/instruments/impl/instrument_impl.hh
+END
+factories.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/instruments/impl/factories.hh
+END

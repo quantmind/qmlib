@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/880/qmlib/trunk/include/qmlib/timeserie
+END
+time_serie_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/880/qmlib/trunk/include/qmlib/timeserie/time_serie_base.hpp
+END
+timeseries_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/880/qmlib/trunk/include/qmlib/timeserie/timeseries_base.hpp
+END

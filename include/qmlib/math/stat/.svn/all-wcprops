@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/stat
+END
+distribution_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/stat/distribution_impl.hh
+END
+distribution_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/stat/distribution_base.hpp
+END
+chi_squared.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/stat/chi_squared.hpp
+END
+binormal.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/stat/binormal.hpp
+END
+all.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/stat/all.hpp
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/static
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/static/readme.txt
+END
+ccy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/static/ccy.hpp
+END
+tc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/static/tc.hpp
+END
+calcDates.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/static/calcDates.hpp
+END
+all.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/static/all.hpp
+END
+contract.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/static/contract.hpp
+END
+enums.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/static/enums.hpp
+END
+index.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/static/index.hpp
+END
+ccypair.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/static/ccypair.hpp
+END

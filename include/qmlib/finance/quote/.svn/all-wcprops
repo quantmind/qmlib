@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/quote
+END
+interestrate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/quote/interestrate.hpp
+END
+quote.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/quote/quote.hpp
+END

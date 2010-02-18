@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance
+END
+instrument.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/instrument.hpp
+END
+irhelp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/irhelp.hpp
+END
+ccyinst.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/ccyinst.hpp
+END
+security.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/security.hpp
+END
+ipricer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/ipricer.hpp
+END
+iquote.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/iquote.hpp
+END

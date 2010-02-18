@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/bgm
+END
+tenure.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/bgm/tenure.hpp
+END
+tenure_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/finance/bgm/tenure_impl.hh
+END

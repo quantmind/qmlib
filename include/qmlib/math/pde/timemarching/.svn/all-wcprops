@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/pde/timemarching
+END
+trapezoidal.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/pde/timemarching/trapezoidal.hpp
+END
+explicit.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/pde/timemarching/explicit.hpp
+END

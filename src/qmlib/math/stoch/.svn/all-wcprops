@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/660/qmlib/trunk/src/qmlib/math/stoch
+END
+heston.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/660/qmlib/trunk/src/qmlib/math/stoch/heston.cpp
+END
+monte.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/660/qmlib/trunk/src/qmlib/math/stoch/monte.cpp
+END
+gammaou.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/660/qmlib/trunk/src/qmlib/math/stoch/gammaou.cpp
+END
+gaussianou.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/660/qmlib/trunk/src/qmlib/math/stoch/gaussianou.cpp
+END
+poisson.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/660/qmlib/trunk/src/qmlib/math/stoch/poisson.cpp
+END
+bridge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/660/qmlib/trunk/src/qmlib/math/stoch/bridge.cpp
+END

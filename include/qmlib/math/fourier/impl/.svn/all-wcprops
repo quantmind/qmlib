@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/fourier/impl
+END
+ifftchar_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/fourier/impl/ifftchar_impl.hh
+END
+frfft_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/fourier/impl/frfft_impl.hh
+END
+fftchar_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/fourier/impl/fftchar_impl.hh
+END
+fftres_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/math/fourier/impl/fftres_impl.hh
+END

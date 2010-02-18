@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/879/qmlib/trunk/include/qmlib/corelib/dates
+END
+holiday.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/dates/holiday.hpp
+END
+imm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/dates/imm.hpp
+END
+boost_date.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/dates/boost_date.hpp
+END
+date.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/879/qmlib/trunk/include/qmlib/corelib/dates/date.hpp
+END
+datestring.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/dates/datestring.hpp
+END
+juldate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/879/qmlib/trunk/include/qmlib/corelib/dates/juldate.hpp
+END
+exchangedate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/dates/exchangedate.hpp
+END
+all.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/dates/all.hpp
+END
+daycount.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/659/qmlib/trunk/include/qmlib/corelib/dates/daycount.hpp
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/659/qmlib/trunk/src/python/core
+END
+static_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/static_wrap.cpp
+END
+date_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/date_wrap.cpp
+END
+irates_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/irates_wrap.cpp
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/.cproject
+END
+json_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/json_wrap.cpp
+END
+math_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/math_wrap.cpp
+END
+observer_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/observer_wrap.cpp
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/.project
+END
+dataserie_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/dataserie_wrap.cpp
+END
+base_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/base_wrap.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/main.cpp
+END
+calcDates_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/calcDates_wrap.cpp
+END
+sensitivity_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/659/qmlib/trunk/src/python/core/sensitivity_wrap.cpp
+END

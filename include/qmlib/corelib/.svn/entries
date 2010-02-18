@@ -1,0 +1,117 @@
+10
+
+dir
+2035
+http://trac.quantmind.com/svn/qmlib/trunk/include/qmlib/corelib
+http://trac.quantmind.com/svn
+
+
+
+2008-12-09T20:09:38.938552Z
+879
+lsbardel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+16e72d73-2dbe-44ce-9f84-5cc4b353130c
+
+algorithms
+dir
+
+dates
+dir
+
+impl
+dir
+
+info
+dir
+
+math.hpp
+file
+
+
+
+
+2009-07-14T21:16:47.000000Z
+e1d282ff41d3cb857a1fadfff55b05e8
+2008-10-25T14:38:31.501228Z
+659
+lsbardel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+903
+
+static
+dir
+
+templates
+dir
+
+tools
+dir
+
+tools.hpp
+file
+
+
+
+
+2009-07-14T21:16:47.000000Z
+fcafc2f282109b5acd170521dd1c731b
+2008-10-25T14:38:31.501228Z
+659
+lsbardel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1061
+
